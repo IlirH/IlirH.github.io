@@ -1,0 +1,32 @@
+Privacy Policy for Android Sensor Info
+Last updated: July 17, 2025
+
+This Privacy Policy explains how Android Sensor Info ("we", "us", or "our") handles user information. By using the app, you agree to the terms outlined in this policy.
+
+1. Data Collection & Usage
+- Android Sensor Info does not collect, store, or share any personal data.
+- The app displays real-time sensor information available on the device (e.g., accelerometer, gyroscope, magnetometer, light, pressure, orientation).
+- No sensor data is transmitted off-device or stored beyond the current session.
+
+2. Permissions Required
+- The app uses the Android system sensor framework and does not request special permissions like location, storage, or internet.
+- All sensor readings are handled locally through Android's built-in APIs.
+- No personally identifiable information is accessed.
+
+3. Third-Party Services & Advertising
+- Android Sensor Info does not use third-party SDKs, analytics, or external APIs.
+- The app does not serve ads or include external content providers.
+- No data is shared with advertisers or third parties.
+
+4. Security & Compliance
+- As no user data is collected or stored, no special security handling is required.
+- The app complies with Google Play's Data Safety requirements.
+- Android Sensor Info is suitable for all ages and does not collect data from children under 13.
+
+5. Updates & Contact
+This Privacy Policy may be updated if necessary. Any changes will be posted on the app’s store page.
+
+For any questions or concerns, contact us at:
+ilirhdev@gmail.com
+
+Summary: Android Sensor Info does not collect, store, or share any user data. All processing is done locally using built-in Android sensors. No ads, no tracking, no third-party services.

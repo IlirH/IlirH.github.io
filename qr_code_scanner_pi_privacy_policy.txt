@@ -1,0 +1,34 @@
+Privacy Policy for QR Code Scanner PI  
+Last updated: July 24, 2025
+
+This Privacy Policy explains how QR Code Scanner PI ("we", "us", or "our") handles user information. By using the app, you agree to the terms outlined in this policy.
+
+1. Data Collection & Usage
+- QR Code Scanner PI does not collect, store, or share any personal data.
+- The app scans QR codes and barcodes using the device’s camera and processes the data locally.
+- Scanned results can be saved locally on the device for history purposes.
+- No scanned data is transmitted to any external servers or third parties.
+
+2. Permissions Required
+QR Code Scanner PI requests only the permissions necessary for its functionality:
+
+- Camera access to display the live preview and scan codes in real-time.
+- No access is made to location, contacts, microphone, or any other sensitive information.
+
+3. Third-Party Services
+- The app works fully offline and does not connect to any external services.
+- It does not transmit or receive data from the internet.
+- No data is shared with third parties.
+
+4. Security & Compliance
+- Since no user data is collected or transmitted, no additional security mechanisms are required beyond local device security.
+- The app complies with Google Play’s Data Safety policies.
+- QR Code Scanner PI does not target or knowingly interact with children under 13.
+
+5. Updates & Contact
+This Privacy Policy may be updated if necessary. Any changes will be reflected on the app’s Play Store page and/or website.
+
+For questions or concerns, please contact:  
+ilirhdev@gmail.com
+
+Summary: QR Code Scanner PI operates fully offline. It collects no personal data, performs all scanning on-device, and keeps your data local. Your privacy is respected — simple, secure, and private.

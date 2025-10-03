@@ -32,7 +32,7 @@ We don’t make decisions that have legal or similarly significant effects on yo
 3) AI processing specifics
 We send your prompts (and necessary context) to our AI gateway, which routes to model providers via OpenRouter to generate a response. Provider retention varies by model; OpenRouter documents per-provider retention and offers zero-data-retention defaults where supported. Review model-specific policies if you’re concerned.  
 
-We do not use your chats to train our own models.
+Your chats are not used to train AI models.
 
 4) Storage & security
 
@@ -62,7 +62,7 @@ We show ads to keep the app free. Where required (e.g., EEA/UK), we use a consen
 7) Sharing of information
 We don’t sell your personal information. We share only with:
 - Service providers / processors: Firebase + Google Cloud (hosting, auth, remote config, functions, App Check, Firestore).  
-- AI providers via OpenRouter: To generate responses (see §3 for retention notes).  
+- AI providers via OpenRouter: To generate responses (see section 3 for retention notes).  
 - Legal/safety: If required by law or to protect rights, property, or safety.  
 
 8) International transfers
@@ -71,7 +71,7 @@ Your data may be processed in countries other than yours. We rely on Google’s 
 9) Your rights & choices
 Depending on your location, you may have rights to access, correct, delete, or port your data, and to object or restrict certain processing. You can:
 - Delete chats in-app (removes local and cloud copies as implemented).  
-- Adjust ad consent via the platform consent dialog and device settings (§6).  
+- Adjust ad consent via the platform consent dialog and device settings (section 6).  
 
 Automated decision-making: You have the right not to be subject to decisions with legal/similarly significant effects based solely on automated processing; our app does not perform such decisions.  
 

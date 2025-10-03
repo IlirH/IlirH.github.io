@@ -1,0 +1,90 @@
+Privacy Policy — Beam AI Companion
+Effective date: 03 October 2025
+
+Beam AI Companion (“Beam AI”, “we”, “us”) provides an AI chat application. This Privacy Policy explains what we collect, how we use it, how we share it, and your choices.
+
+Quick summary
+- We use Firebase (Authentication, Remote Config, Functions, App Check, Firestore) and Google Cloud. We store your chats (encrypted at rest) in Firestore and locally in an encrypted database.  
+- Local storage is encrypted with SQLCipher; the database passphrase is wrapped with Android Keystore.  
+- For cloud chat storage, we use per-chat data-encryption keys (DEKs) encrypted (“wrapped”) server-side with Google Cloud KMS via Firebase Functions. We store ciphertext in Firestore. Not end-to-end: our backend can unwrap DEKs for service operation.  
+- We use App Check (Play Integrity in release) to reduce abuse; we also do basic emulator/install-source checks.  
+- Ads monetize the free app. We use a consent flow and can request non-personalized ads when applicable.  
+- You are the “controller” of your end-user data in Firebase terms; Google generally acts as a processor/service provider.  
+- We don’t make legally significant automated decisions about you; this is an AI chat experience.
+
+1) Information we collect
+Account & profile data. Email address (when you sign in) and your saved “profiles/companions” (name + prompt) you create in the app.  
+Chat content. Messages you send and receive. We store message text, timestamps, and token counters used for usage limits. Locally in Room; remotely in Firestore.  
+Device & app signals (security/abuse). App Check verdicts and limited device signals to detect emulators and confirm Play Store installs.  
+Advertising data. Ad SDKs may collect device identifiers and event data to show/measure ads, depending on your consent and platform settings.  
+
+We do not collect passwords; Firebase Authentication handles credentials.  
+
+2) How we use data (and legal bases)
+- Provide the service. Show chats, generate responses, store histories, sync across devices.  
+- Maintain profiles/companions. Save/update your custom prompts.  
+- Enforce usage caps and reliability. Track token usage for limits and UX.  
+- Security & abuse prevention. App Check, emulator/install-source checks.  
+- Ads. Serve and measure advertising; honor your consent choices.  
+
+We don’t make decisions that have legal or similarly significant effects on you under GDPR Article 22; AI responses are informational and user-prompted.  
+
+3) AI processing specifics
+We send your prompts (and necessary context) to our AI gateway, which routes to model providers via OpenRouter to generate a response. Provider retention varies by model; OpenRouter documents per-provider retention and offers zero-data-retention defaults where supported. Review model-specific policies if you’re concerned.  
+
+We do not use your chats to train our own models.
+
+4) Storage & security
+
+Local (on device)
+- Encrypted database: We use Room with SQLCipher; the DB is opened with a binary passphrase.  
+- Key protection: The passphrase is generated randomly and wrapped with an AES-GCM key from Android Keystore; only the wrapped blob + IV are stored.  
+
+Cloud (Firestore + Functions + KMS)
+- Per-chat encryption: Messages are encrypted client-side with a 256-bit DEK (AES-GCM) before being written to Firestore; the DEK is wrapped/unwrapped in a Cloud Function using Google Cloud KMS. Ciphertext + IV are stored; the wrapped DEK is saved with the chat.  
+- Not end-to-end encryption: The backend can unwrap keys when needed to sync/restore content (required for multi-device and recovery). This is “key wrapping” per KMS documentation.  
+
+Platform safeguards
+- App Check (Play Integrity in release) to limit access to genuine clients.  
+
+No security measure is perfect, but we design to industry guidance on client-side encryption and key wrapping.  
+
+5) Data retention & deletion
+- Chats: Retained until you delete them or your account. App supports remote wipe of Firestore chat collections and local wipe of Room tables.  
+- Token/accounting & operational logs: Kept for a limited period to enforce usage caps, debug issues, and mitigate abuse, then deleted or aggregated.  
+- Ads/SDK logs: Governed by partner policies per your consent.  
+
+You can request deletion of your Firestore content; local data is removed when you uninstall or use in-app deletion.
+
+6) Advertising & consent
+We show ads to keep the app free. Where required (e.g., EEA/UK), we use a consent flow for personalized advertising. When consent isn’t granted (or where required), we request non-personalized ads (Ad Manager/AdMob npa=1).  
+
+7) Sharing of information
+We don’t sell your personal information. We share only with:
+- Service providers / processors: Firebase + Google Cloud (hosting, auth, remote config, functions, App Check, Firestore).  
+- AI providers via OpenRouter: To generate responses (see §3 for retention notes).  
+- Legal/safety: If required by law or to protect rights, property, or safety.  
+
+8) International transfers
+Your data may be processed in countries other than yours. We rely on Google’s data processing terms and appropriate safeguards (e.g., SCCs) provided by our processors.  
+
+9) Your rights & choices
+Depending on your location, you may have rights to access, correct, delete, or port your data, and to object or restrict certain processing. You can:
+- Delete chats in-app (removes local and cloud copies as implemented).  
+- Adjust ad consent via the platform consent dialog and device settings (§6).  
+
+Automated decision-making: You have the right not to be subject to decisions with legal/similarly significant effects based solely on automated processing; our app does not perform such decisions.  
+
+California residents: We do not “sell” your data. If personalized ads are considered “sharing” under CPRA, we honor your opt-out through the consent flow and device settings.  
+
+To exercise rights, contact: support@infernusapps.com
+
+10) Children’s privacy
+Beam AI is for users 18+. We don’t knowingly collect data from minors; if we learn a minor has used the app, we’ll delete their data.
+
+11) Changes
+We’ll update this Policy as needed and post the latest version in-app.
+
+12) Contact
+Infernus Apps
+Email: support@infernusapps.com

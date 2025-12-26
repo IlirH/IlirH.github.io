@@ -1,0 +1,53 @@
+Privacy Policy for Randomix
+Last updated: December 26, 2025
+
+This Privacy Policy explains how Randomix ("Randomix", "we", "us", or "our") handles user information. By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+Randomix is designed to be simple, private, and privacy-friendly.
+
+- Randomix provides tools such as Coin Flip, Spinning Wheel, Random Number Generator, and Dice Roller.
+- All user interactions and generated results occur locally on the device.
+- Any user-entered data (such as custom wheel options or number ranges) is stored only in memory or locally on the device.
+- Randomix does not collect, transmit, or store personal data on external servers.
+
+2. Offline Usage
+- Randomix works fully offline.
+- No internet connection is required for core functionality.
+- No user data is transmitted over the network.
+
+3. Permissions
+Randomix requests only the minimum permissions required for core functionality:
+- No sensitive permissions are required for normal operation.
+
+Randomix does not request access to location, contacts, camera, microphone, storage, or background activity tracking.
+
+4. Data Storage
+- Any locally stored preferences (such as app settings or early-user flags) are stored securely on the device.
+- Local data is not shared with any external systems.
+- Users may clear app data at any time via system settings.
+
+5. Third-Party Services
+- Randomix does not use third-party analytics, tracking, profiling, or advertising services.
+- No personal data is shared with third parties.
+
+6. Data Security
+- All data handled by Randomix remains on the user’s device.
+- Where applicable, local storage mechanisms provided by Android are used to protect stored information.
+- Randomix does not transmit user data externally.
+
+7. Children’s Privacy
+- Randomix does not knowingly collect personal data from children under the age of 13.
+- As no personal data is collected or transmitted, the app is suitable for general audiences.
+
+8. Changes to This Policy
+This Privacy Policy may be updated if the app’s functionality changes or to comply with legal requirements.
+Any updates will be reflected in the app’s store listing or accompanying documentation.
+
+9. Contact
+If you have any questions or concerns about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com
+
+Summary:
+Randomix does not collect, track, or share personal data. All functionality operates locally on your device. No ads, no analytics, and no user tracking are used.

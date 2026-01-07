@@ -1,0 +1,61 @@
+Privacy Policy for Santa Flight
+Last updated: January 2026
+
+This Privacy Policy explains how Santa Flight ("Santa Flight", "we", "us", or "our") handles user information. By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+
+Santa Flight is designed to be a simple, lightweight, and privacy-friendly casual game.
+
+- Santa Flight is a single-player arcade game where users control a character by tapping to fly and avoid obstacles.
+- All gameplay logic, scoring, and interactions occur locally on the device.
+- The game does not collect, transmit, or store personal data on external servers.
+- No accounts, sign-ins, or user profiles are required.
+
+2. Offline Usage
+
+- Santa Flight works fully offline.
+- No internet connection is required to play the game.
+- No data is transmitted over the network during gameplay.
+
+3. Permissions
+
+Santa Flight only uses system access that is necessary for the core functionality of the game.
+No access to personal information is required to play.
+
+4. Data Storage
+
+- Game-related data (such as scores or basic settings) is stored locally on the device only.
+- Local data is used solely to support gameplay functionality.
+- This data is not shared with any external systems.
+- Users may clear all locally stored data at any time via the device’s system settings.
+
+5. Third-Party Services
+
+Santa Flight does not share user data with third parties.
+
+6. Data Security
+
+- All data handled by Santa Flight remains on the user’s device.
+- Standard Android platform security mechanisms are used to protect locally stored data.
+- Santa Flight does not transmit user data externally.
+
+7. Children’s Privacy
+
+- Santa Flight does not knowingly collect personal data from children under the age of 13.
+- As no personal data is collected or transmitted, the game is suitable for general audiences.
+
+8. Changes to This Policy
+
+This Privacy Policy may be updated if the game’s functionality changes or to comply with legal requirements.
+Any updates will be reflected in the app’s store listing or accompanying documentation.
+
+9. Contact
+
+If you have any questions or concerns about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com
+
+Summary:
+Santa Flight does not collect or share personal data.
+All gameplay operates locally on the user’s device.

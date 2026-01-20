@@ -1,0 +1,51 @@
+Privacy Policy for Ease
+Last updated: January 20, 2026
+
+This Privacy Policy explains how Ease ("Ease", "we", "us", or "our") handles user information. By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+Ease is designed to be a private, secure, and offline mindfulness tool.
+
+- Ease provides tools for guided 4-7-8 rhythmic breathing and anxiety relief.
+- The app tracks "Mindful Minutes" and session history (date, time, and duration) to help users monitor their progress.
+- All session data is stored locally on the device in an encrypted database.
+- Ease does not collect, transmit, or store personal data on external servers.
+
+2. Offline Usage
+- Ease works fully offline.
+- No internet connection is required for core functionality.
+- No user data is transmitted over the network.
+
+3. Permissions
+Ease requests only the minimum permissions required for core functionality:
+- No sensitive permissions are requested.
+- The app utilizes the device's vibration motor (Haptics) to provide tactile breathing guidance, but this does not access user data.
+
+4. Data Storage & Encryption
+- Ease takes your privacy seriously. All local data, including your breathing session history and preferences, is stored in a secure local database.
+- We utilize SQLCipher, an industry-standard extension, to encrypt your data at rest on your device. This means your personal journey remains private and inaccessible to other applications.
+- Users may clear app data at any time via the device's system settings.
+
+5. Third-Party Services
+- Ease does not use third-party analytics, tracking, profiling, or advertising services.
+- No personal data is shared with third parties.
+
+6. Data Security
+- All data handled by Ease remains strictly on the user’s device.
+- We employ strong encryption standards (AES-256 via SQLCipher) to ensure that your local data is protected against unauthorized access.
+- Ease does not transmit user data externally.
+
+7. Children’s Privacy
+- Ease does not knowingly collect personal data from children under the age of 13.
+- As no personal data is collected or transmitted, the app is suitable for general audiences.
+
+8. Changes to This Policy
+This Privacy Policy may be updated if the app’s functionality changes or to comply with legal requirements. Any updates will be reflected in the app’s store listing.
+
+9. Contact
+If you have any questions or concerns about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com
+
+Summary:
+Ease is a private, offline breathing companion. Your data is encrypted locally on your device and is never shared, tracked, or uploaded.

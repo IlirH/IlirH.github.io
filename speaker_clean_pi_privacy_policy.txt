@@ -1,0 +1,50 @@
+Privacy Policy for Speaker Clean PI
+Last updated: January 27, 2026
+
+This Privacy Policy explains how Speaker Clean PI ("we", "us", or "our") handles user information.
+By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+Speaker Clean PI is designed to be a secure, private utility for maintaining your device's audio hardware.
+- The app functions as a local utility tool.
+- We do not collect, transmit, or store personal data, usage logs, or audio recordings on external servers.
+- Any app preferences (such as "Dark Mode" or "Early User" status) are stored locally on your device.
+
+2. Hardware Usage (Speakers & Vibration)
+To perform its core function (Water Ejection and Speaker Cleaning), the app requires access to specific hardware features:
+- Audio Output: The app generates specific high-frequency sine waves. It does NOT use the microphone and does NOT record any audio.
+- Vibration (Haptics): The app uses the device's vibration motor to assist in dislodging water.
+- Volume Control: The app requests permission to maximize volume temporarily during the cleaning process to ensure effectiveness.
+
+3. Data Storage & Encryption
+- We utilize industry-standard encryption to protect local app data.
+- The app uses SQLCipher (AES-256 encryption) to secure the local database where your app preferences and status flags are stored.
+- This ensures that even your local preference data remains private and inaccessible to other applications or unauthorized access.
+
+4. Offline Usage
+- Speaker Clean PI works fully offline.
+- No internet connection is required for the core "Cleaning" or "Stereo Test" functionality.
+- No user data is transmitted over the network.
+
+5. Permissions
+The app requests only the minimum permissions required for functionality:
+- MODIFY_AUDIO_SETTINGS: Required to set the volume to 100% during the cleaning cycle.
+- VIBRATE: Required to run the vibration engine for water ejection.
+- FOREGROUND_SERVICE (if applicable): Used only to ensure the cleaning tone continues uninterrupted if you minimize the app.
+
+6. Third-Party Services
+- This version of the app does not use third-party analytics, tracking, profiling, or advertising services.
+- No personal data is shared with third parties.
+
+7. Children’s Privacy
+- Speaker Clean PI does not knowingly collect personal data from children under the age of 13.
+- As a utility tool that collects no personal data, it is suitable for general audiences.
+
+8. Changes to This Policy
+This Privacy Policy may be updated if the app’s functionality changes (e.g., if new features are added).
+Any updates will be reflected in the app’s store listing and this document.
+
+9. Contact
+If you have any questions or concerns about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com

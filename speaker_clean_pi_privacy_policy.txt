@@ -12,14 +12,14 @@ Speaker Clean PI is designed to be a secure, private utility for maintaining you
 
 2. Hardware Usage (Speakers & Vibration)
 To perform its core function (Water Ejection and Speaker Cleaning), the app requires access to specific hardware features:
-- Audio Output: The app generates specific high-frequency sine waves. It does NOT use the microphone and does NOT record any audio.
+- Audio Output: The app generates sound signals through the device speaker. It does NOT use the microphone and does NOT record any audio.
 - Vibration (Haptics): The app uses the device's vibration motor to assist in dislodging water.
 - Volume Control: The app requests permission to maximize volume temporarily during the cleaning process to ensure effectiveness.
 
-3. Data Storage & Encryption
-- We utilize industry-standard encryption to protect local app data.
-- The app uses SQLCipher (AES-256 encryption) to secure the local database where your app preferences and status flags are stored.
-- This ensures that even your local preference data remains private and inaccessible to other applications or unauthorized access.
+3. Data Storage
+- Any app preferences or status flags are stored locally on your device.
+- Speaker Clean PI does not store personal data on external servers.
+- Local app data is not accessible to other applications.
 
 4. Offline Usage
 - Speaker Clean PI works fully offline.

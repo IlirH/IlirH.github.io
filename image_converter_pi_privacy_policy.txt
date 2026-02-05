@@ -1,0 +1,39 @@
+Privacy Policy for Image Converter PI
+Last updated: February 5, 2026
+
+This Privacy Policy explains how Image Converter PI ("we", "us", or "our") handles user information.
+By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+Image Converter PI is a local utility tool designed to convert and resize images directly on your device.
+- We do not collect, transmit, or store personal data, images, or usage logs on external servers.
+- All image processing happens locally on your phone. Your photos never leave your device.
+- Any app preferences (such as "Dark Mode" or "Early User" status) are stored securely and locally on your device.
+
+2. Image Processing
+- The app accesses only the specific images you select via the system file picker.
+- We do not modify or delete your original files. The app creates new copies of your images in the requested format.
+- Modified images are saved to your device's "Pictures/Image Converter PI" folder.
+
+3. Offline Usage
+- Image Converter PI works fully offline.
+- No internet connection is required to convert, resize, or compress images.
+- No user data is transmitted over the network.
+
+4. Permissions
+The app uses modern Android "Scoped Storage" to ensure privacy:
+- Storage Access: We do not request broad "Manage All Files" permission. We only access the specific files you choose to convert.
+- Notifications (Optional): Used solely to show progress when processing large batches of images in the background.
+
+5. Third-Party Services
+- This version of the app does not use third-party analytics, tracking, or profiling services.
+- No personal data is shared with third parties.
+
+6. Children’s Privacy
+- Image Converter PI does not knowingly collect personal data from children.
+- As a utility tool that collects no personal data, it is suitable for general audiences.
+
+7. Contact
+If you have any questions about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com

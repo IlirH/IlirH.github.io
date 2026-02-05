@@ -23,7 +23,6 @@ Image Converter PI is a local utility tool designed to convert and resize images
 4. Permissions
 The app uses modern Android "Scoped Storage" to ensure privacy:
 - Storage Access: We do not request broad "Manage All Files" permission. We only access the specific files you choose to convert.
-- Notifications (Optional): Used solely to show progress when processing large batches of images in the background.
 
 5. Third-Party Services
 - This version of the app does not use third-party analytics, tracking, or profiling services.

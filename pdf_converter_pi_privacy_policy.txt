@@ -1,0 +1,40 @@
+Privacy Policy for PDF Converter PI
+Last updated: February 10, 2026
+
+This Privacy Policy explains how PDF Converter PI ("we", "us", or "our") handles user information.
+By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+PDF Converter PI is a local utility tool designed to convert images into PDF documents directly on your device.
+- We do not collect, transmit, or store personal data, documents, or usage logs on external servers.
+- All image processing and PDF generation happen locally on your phone. Your files never leave your device.
+- App preferences (such as "Dark Mode" or "Early User" status) are stored securely and locally on your device using encrypted storage.
+
+2. File Processing & Creation
+- The app accesses only the specific images you select via the system file picker to generate a PDF.
+- We do not modify or delete your original images.
+- The app creates a new PDF document based on your selection.
+- Generated PDF files are saved to your device's "Documents/PDF Converter PI" folder.
+
+3. Offline Usage
+- PDF Converter PI works fully offline.
+- No internet connection is required to create, compress, or view PDF files.
+- No user data is transmitted over the network.
+
+4. Permissions
+The app uses modern Android "Scoped Storage" to ensure strict privacy:
+- Storage Access: We do not request broad "Manage All Files" permission.
+- We only access the specific images you choose to convert and write only the files we create.
+
+5. Third-Party Services
+- This version of the app does not use third-party analytics, tracking, or profiling services.
+- No personal data or file content is shared with third parties.
+
+6. Children’s Privacy
+- PDF Converter PI does not knowingly collect personal data from children.
+- As a utility tool that collects no personal data, it is suitable for general audiences.
+
+7. Contact
+If you have any questions about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com

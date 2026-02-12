@@ -1,0 +1,41 @@
+Privacy Policy for Exif Remover PI
+Last updated: February 12, 2026
+
+This Privacy Policy explains how Exif Remover PI ("we", "us", or "our") handles your information. 
+By using the app, you agree to the terms described below.
+
+1. General Overview
+Exif Remover PI is a privacy-focused utility designed to detect and remove metadata (Exif tags) from your photos.
+- We do not collect, store, or transmit personal data, images, or usage logs to external servers.
+- The app operates 100% offline.
+- Your photos never leave your device.
+
+2. Metadata & Location Data
+To fulfill its core functionality, the app must access and read the metadata contained within your selected images, which may include:
+- GPS Coordinates (Location data)
+- Device Information (Camera make, model, serial number)
+- Capture Settings (Date, time, software used)
+
+This data is processed solely in your device's temporary memory (RAM) for the purpose of displaying it to you and creating a sanitized copy of the image. This data is instantly discarded after processing and is never transmitted to us or any third party.
+
+3. Data Security & Encryption
+- All image processing is performed locally on your device.
+- Internal app preferences (such as "Dark Mode" or "Early User" status) are stored in a local, encrypted database (SQLCipher) to ensure your app settings remain private and secure.
+
+4. File Storage & Permissions
+The app strictly adheres to Android's "Scoped Storage" guidelines:
+- We only access the specific single images you explicitly select via the system file picker.
+- We do not have broad access to your entire gallery.
+- "Sanitized" (cleaned) images are saved to a dedicated folder on your device (Pictures/Exif Remover PI). We do not overwrite your original files.
+
+5. Third-Party Services
+- This app does not contain third-party advertisements, analytics, or tracking SDKs.
+- No data is shared with third parties.
+
+6. Children’s Privacy
+Exif Remover PI does not knowingly collect personal data from children. As a utility tool that operates offline and collects no data, it is suitable for general audiences.
+
+7. Contact
+If you have any questions about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com

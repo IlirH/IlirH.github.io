@@ -1,0 +1,38 @@
+Privacy Policy for Headphone Mode Off PI
+Last updated: February 17, 2026
+
+This Privacy Policy explains how Headphone Mode Off PI ("we", "us", or "our") handles your information.
+By using the app, you agree to the terms described below.
+
+1. General Overview
+Headphone Mode Off PI is a utility designed to fix audio routing issues on your device.
+- We do not collect, store, or transmit any personal data.
+- The app operates 100% offline.
+- We do not access your location, contacts, or files.
+
+2. Audio Permissions & Functionality
+To function correctly, the app interacts with your device's audio hardware in the following ways:
+- Audio Settings: We use the "Modify Audio Settings" permission to force audio output to your built-in speaker or headphones.
+- Hardware Detection: The app detects whether a headphone jack or USB audio device is plugged in to display the correct status.
+
+This process happens entirely on your device. We do not record audio, listen to calls, or analyze sound.
+
+3. Local Data & Encryption
+The app stores simple preference data (such as your "Dark Mode" setting or "App Status") locally on your device.
+- This data is stored in a secure, encrypted database to ensure your preferences remain private.
+- This data never leaves your device and cannot be accessed by other apps.
+
+4. Audio Testing
+The "Test Audio" feature allows you to play a system notification sound to verify that the speaker fix is working. This happens locally and does not access your personal music library.
+
+5. Third-Party Services
+- This app does not contain third-party advertisements or tracking software.
+- No user data is shared with any third parties.
+
+6. Children’s Privacy
+Since this application does not collect data and operates offline, it is safe for all age groups. We do not knowingly collect personal information from children.
+
+7. Contact
+If you have any questions about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com

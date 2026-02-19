@@ -1,0 +1,32 @@
+Privacy Policy for Screen Mirror PI
+Last updated: February 19, 2026
+
+This Privacy Policy explains how Screen Mirror PI ("we", "us", or "our") handles user information. 
+By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+Screen Mirror PI is a local utility tool designed to assist users in locating and launching their device's native wireless display and casting settings.
+- We do not collect, transmit, intercept, or store personal data, usage logs, or screen data on external servers.
+- The app does not record your screen. All screen mirroring and casting is handled natively by your device's Android Operating System.
+- Any app preferences (such as "Dark Mode" or "Early User" status) are stored securely and locally on your device using an encrypted database.
+
+2. Network Checks & Casting
+- To provide a seamless experience, the app checks your device's local network status to ensure your WiFi is active before launching the casting menu.
+- We do not track which network you are connected to, nor do we track which TV or display you choose to cast to.
+
+3. Permissions
+The app requests minimal permissions necessary for its core functionality:
+- Network State & Internet: Used strictly locally to verify that your device's WiFi is turned on and connected. No personal data is transmitted over the internet by our app.
+
+4. Third-Party Services
+- This version of the app does not use third-party analytics, tracking, or profiling services.
+- No personal data is shared with or sold to third parties.
+
+5. Children’s Privacy
+- Screen Mirror PI does not knowingly collect personal data from children. 
+- As a utility tool that collects no personal information, it is suitable for general audiences.
+
+6. Contact
+If you have any questions about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com

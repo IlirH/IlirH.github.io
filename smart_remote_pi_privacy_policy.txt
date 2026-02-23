@@ -1,0 +1,37 @@
+Privacy Policy for Smart Remote PI
+Last updated: February 23, 2026
+
+This Privacy Policy explains how Smart Remote PI ("we", "us", or "our") handles user information. 
+By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+Smart Remote PI is a local utility tool designed to act as a remote control for LG webOS televisions.
+- We do not collect, transmit, intercept, or store personal data, usage logs, or analytics on external servers.
+- The app communicates directly with your television over your local home network.
+- Any app preferences (such as "Dark Mode" or "Early User" status) and TV pairing keys are stored securely and locally on your device using an encrypted database.
+
+2. Network Discovery & Remote Control
+- To provide a seamless experience, the app scans your local network to discover available LG TVs. This is done entirely on your device.
+- We do not track which network you are connected to, nor do we track or record your TV usage, viewing habits, or the apps you choose to launch.
+- All remote control commands are sent directly from your phone to your TV. No data is routed through third-party servers.
+
+3. Permissions
+The app requests the minimal permissions necessary for its core functionality:
+- Network State & Internet: Used strictly locally to verify that your device's WiFi is turned on and to communicate with your TV. No personal data is transmitted over the internet by our app.
+- Change WiFi Multicast State: Required to scan your local network to find your LG TV during the pairing process.
+- Vibrate: Used to provide tactile feedback (haptics) when you press buttons on the remote.
+
+4. Third-Party Services
+- This version of the app does not use third-party analytics, tracking, advertising, or profiling services.
+- No personal data is shared with or sold to third parties.
+
+5. Security
+- We employ local encryption to protect the TV pairing keys and user flags stored on your device.
+
+6. Children's Privacy
+- Smart Remote PI does not knowingly collect personal data from children. 
+
+7. Contact
+If you have any questions about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com

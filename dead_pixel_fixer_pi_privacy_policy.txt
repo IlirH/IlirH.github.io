@@ -1,0 +1,36 @@
+Privacy Policy for Dead Pixel Fixer PI
+Last updated: March 2, 2026
+
+This Privacy Policy explains how Dead Pixel Fixer PI ("we", "us", or "our") handles user information. 
+By using the app, you agree to the terms described below.
+
+1. Data Collection & Usage
+Dead Pixel Fixer PI is a local utility tool designed to help identify and attempt to repair display anomalies like dead pixels and screen burn-in.
+- We do not collect, transmit, intercept, or store personal data, usage logs, or analytics on external servers.
+- The app operates entirely offline on your device.
+- Any app preferences (such as Dark Mode settings) and your specific user status (such as "Early User" flags) are stored securely and locally on your device using an encrypted database.
+
+2. Hardware & Display Control
+- To provide its core functionality, the app temporarily adjusts your device's screen brightness to its maximum level and prevents the device from sleeping during an active repair cycle. 
+- These actions are performed entirely locally using standard Android system tools. 
+- We do not track, record, or transmit when, how long, or how often you use the repair or diagnostic cycles.
+
+3. Permissions
+The app is built to prioritize your privacy and requests absolutely zero dangerous permissions:
+- It does not require or request access to your camera, microphone, contacts, location, or personal files.
+- It does not require an active internet connection to perform its display diagnostic and repair functions.
+
+4. Third-Party Services
+- This version of the app does not use third-party analytics, tracking, advertising, or profiling services.
+- No personal data is shared with or sold to third parties.
+
+5. Security
+- We employ local, industry-standard database encryption (SQLCipher) to protect the user flags and settings stored locally on your device, preventing unauthorized access to your app data.
+
+6. Children's Privacy
+- Dead Pixel Fixer PI does not knowingly collect personal data from children. 
+
+7. Contact
+If you have any questions about this Privacy Policy, you may contact us at:
+
+Email: ilirhdev@gmail.com

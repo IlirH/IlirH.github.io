@@ -1,36 +1,41 @@
 Privacy Policy for Volume Booster PI
-Last updated: February 27, 2026
+Last updated: March 17, 2026
 
-This Privacy Policy explains how Volume Booster PI ("we", "us", or "our") handles user information. 
-By using the app, you agree to the terms described below.
+This Privacy Policy explains how Volume Booster PI ("we", "us", or "our") handles user information. By using the app, you agree to the terms outlined below.
 
 1. Data Collection & Usage
-Volume Booster PI is a strictly local utility tool designed to safely amplify your device's audio output.
-- We do not collect, transmit, intercept, or store personal data, audio recordings, usage logs, or analytics on external servers.
-- The app operates entirely offline and does not request or require internet access to function.
-- App preferences (such as theme settings, notification dialogue flags, and internal user status) are stored securely and locally on your device using an encrypted database.
+Volume Booster PI is a strictly local utility application built to safely boost your device's audio. We do not directly collect, harvest, or store personal data for our own use. However, the app utilizes third-party services, such as Google AdMob, which may automatically collect specific data as outlined in Section 4.
+Your app preferences, including theme settings and notification flags, are securely saved locally on your device within an encrypted local database.
 
 2. Audio Modification
-- To provide its core functionality, the app applies audio gain to your device's media output using standard Android audio effects.
-- The app does not record, listen to, or process the actual content of the audio being played (such as your music, videos, or phone calls). It solely modifies the output volume limits.
+- To deliver its main features, the app applies audio gain to your device's media stream using standard Android audio effects.
+- We do not record, intercept, listen to, or process the actual content of the audio you play (such as your music, videos, or phone calls). The app solely alters the output volume limits.
 
 3. Permissions
-The app requests the minimal permissions necessary for its core functionality:
-- Modify Audio Settings: Required to adjust and enhance the device's volume and audio output levels safely.
-- Foreground Service (Media Playback): Required by the Android operating system to keep the audio amplifier engine running smoothly in the background while you use other apps.
-- Post Notifications: Required to display an ongoing control panel in your notification drawer, allowing you to easily monitor the engine status and turn it off at any time.
+We request only the absolute minimum permissions necessary for the app to function properly:
+- Modify Audio Settings: Needed to safely adjust and enhance your device's volume and overall audio output.
+- Foreground Service (Media Playback): Required by the Android operating system to keep the audio amplifier running consistently in the background while you navigate to other applications.
+- Post Notifications: Needed to display a persistent control panel in your notification drawer, allowing you to monitor the engine's status and disable it instantly.
+- Network & Internet Access (INTERNET, ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE): These permissions are strictly utilized by our third-party advertising partner (Google AdMob) to fetch and display advertisements, and to load the necessary consent forms. The core audio amplifier engine itself operates completely offline and does not transmit any of your data.
 
-4. Third-Party Services
-- This version of the app does not use third-party analytics, network libraries, tracking, advertising, or profiling services.
-- No personal data is shared with or sold to third parties.
+4. Third-Party Services & Advertising
+- Volume Booster PI integrates third-party SDKs specifically for advertising purposes (Google AdMob).
+- Google AdMob is provided by Google LLC and processes data in accordance with Google's own Privacy Policy.
+- We display ads to support the continuous development of the app. To deliver these ads, measure their performance, and prevent fraudulent activity, our advertising partner automatically collects certain data points. 
+- This collected data includes device identifiers (such as the Android Advertising ID), approximate location, app interactions, and diagnostic logs (like crash reports and performance metrics).
+- Depending on your geographic location, you will be presented with a User Messaging Platform (UMP) consent form allowing you to manage your personalized ad preferences.
 
-5. Security
-- We employ local database encryption to protect the internal configuration flags stored on your device.
+5. Security & Compliance
+- We utilize local database encryption to keep your internal app configurations and preferences secure on your physical device. 
+- While your app settings remain strictly local and safe, we ensure that any data handled by our advertising partners meets strict industry security standards.
+- Volume Booster PI fully complies with Google Play's Data Safety policies.
 
 6. Children's Privacy
-- Volume Booster PI does not knowingly collect personal data from children. 
+- Volume Booster PI does not knowingly target, solicit, or collect personal data from anyone under the age of 13.
 
-7. Contact
-If you have any questions about this Privacy Policy, you may contact us at:
-
+7. Contact Information
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
 Email: ilirhdev@gmail.com
+
+Summary:
+Volume Booster PI does not harvest or store user data for its own use. All audio modifications and app preferences are processed entirely locally on your device. The app does, however, feature third-party advertisements served by Google AdMob. To deliver these ads, measure performance, and prevent fraud, Google AdMob may automatically gather information such as device identifiers (including the Android Advertising ID), approximate IP-based location, app interaction metrics, and diagnostic crash logs.

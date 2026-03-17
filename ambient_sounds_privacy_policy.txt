@@ -1,32 +1,35 @@
 Privacy Policy for Ambient Sounds
-Last updated: July 10, 2025
+Last updated: March 17, 2026
 
 This Privacy Policy explains how Ambient Sounds ("we", "us", or "our") handles user information. By using the app, you agree to the terms outlined in this policy.
 
 1. Data Collection & Usage
-- Ambient Sounds does not collect, store, or share any personal data.
+- Ambient Sounds does not collect or store personal data directly for its own purposes.
+- However, the app uses third-party services (such as Google AdMob) that may automatically collect certain data, as described in the section below.
 - The app plays locally packaged relaxing and ambient sounds for user wellbeing, focus, and sleep.
-- No information is sent to external servers, third parties, or stored locally beyond temporary playback state within the app.
 
-2. Permissions Required
-Ambient Sounds does not require any special permissions to function.
-- The app only uses basic system features to play sounds and run timers.
-- No location, network, or device data is accessed.
+2. Local Data & Storage
+- The app stores simple preference data (such as your "Dark Mode" setting) locally on your device.
+- This data is stored in a secure, encrypted database to ensure your preferences remain private.
+- This data never leaves your device and cannot be accessed by other apps.
 
 3. Third-Party Services & Advertising
-- Ambient Sounds does not use third-party SDKs, analytics, or external APIs.
-- The app does not display ads or serve any personalized content.
-- No data is shared with advertisers or third-party services.
+- Ambient Sounds uses third-party SDKs specifically for advertising (Google AdMob).
+- Google AdMob is provided by Google LLC and may collect and process data according to Google's Privacy Policy.
+- The app displays ads to support development. Our advertising partner automatically collects certain data to serve ads, measure performance, and prevent fraud.
+- This data includes device identifiers (such as the Android Advertising ID), approximate location, app interactions, and diagnostic data (like crash logs and performance metrics).
+- Depending on your region, you will be presented with a consent form to manage your personalized advertising preferences.
 
 4. Security & Compliance
-- Since no user data is collected or stored, no additional security measures are required.
+- While your app preferences are processed safely and locally on your device, we ensure any data processed by our advertising partners is handled securely.
 - The app complies with Google Play's Data Safety requirements.
 - Ambient Sounds does not target or collect data from children under 13.
 
 5. Updates & Contact
-This Privacy Policy may be updated if necessary. Any changes will be posted on the app’s store page and website.
+This Privacy Policy may be updated if necessary. Any changes will be posted on the app’s store page and website. 
+If you have any questions about this Privacy Policy, you may contact us at:
+Email: ilirhdev@gmail.com
 
-For any questions or concerns, contact us at:
-ilirhdev@gmail.com
-
-Summary: Ambient Sounds does not collect, store, or share any user data. It only plays packaged sounds for relaxation and focus. No ads, no tracking, and no third-party involvement.
+Summary:
+Ambient Sounds does not collect or store user data for its own purposes. App preferences are processed locally on your device.
+However, the app includes third-party advertisements provided by Google AdMob. As part of ad delivery, performance measurement, and fraud prevention, Google AdMob may automatically collect certain information such as device identifiers (including the Android Advertising ID), approximate location derived from IP address, app interaction data, and diagnostic information like crash logs or performance metrics.

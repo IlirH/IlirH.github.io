@@ -7,6 +7,12 @@
       "description": "Full device info: CPU, battery, memory, sensors, camera and network at a glance.",
       "categories": ["tools"]
     },
+	{
+      "package": "com.infernus.zz.release.test",
+      "title": "ZZ Release Test — Ünicode",
+      "description": "R8 build check — accents: café, naïve, über. Symbols: £ € ¥. Delete after testing.",
+      "categories": ["tools"]
+    },
     {
       "package": "com.infernus.androidwifianalyzer",
       "title": "WiFi Analyzer PI: WiFi Scanner",

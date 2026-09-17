@@ -4,77 +4,140 @@
     {
       "package": "com.infernus.androiddeviceinfo",
       "title": "Device Manager PI: System Info",
-      "description": "Full device info: CPU, battery, memory, sensors, camera and network at a glance."
+      "description": "Full device info: CPU, battery, memory, sensors, camera and network at a glance.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.androidwifianalyzer",
       "title": "WiFi Analyzer PI: WiFi Scanner",
-      "description": "WiFi scanner & network analyzer. Detect intruders and see who is on your WiFi."
+      "description": "WiFi scanner & network analyzer. Detect intruders and see who is on your WiFi.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.androidsensorinfo",
       "title": "Sensor Info PI: Hardware Test",
-      "description": "Comprehensive hardware diagnostic tool with metal detector, level, and barometer"
+      "description": "Comprehensive hardware diagnostic tool with metal detector, level, and barometer",
+      "categories": ["tools"]
+    },
+    {
+      "package": "com.infernus.androidbatteryinfo",
+      "title": "Battery Info PI: Charge Meter",
+      "description": "Battery health, charge speed and capacity monitor with detailed charge statistics.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.headphone.mode.off.speaker",
       "title": "Headphone Mode Off PI: Speaker",
-      "description": "Fix stuck headphone mode. Force audio to speaker or earphones. Enable Speaker."
+      "description": "Fix stuck headphone mode. Force audio to speaker or earphones. Enable Speaker.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.volume.booster.max.sound",
       "title": "Volume Booster PI: Max Sound",
-      "description": "Powerful volume booster and sound amplifier to safely enhance your device audio."
+      "description": "Powerful volume booster and sound amplifier to safely enhance your device audio.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.speaker.cleaner.remove.water.eject",
       "title": "Speaker Clean PI: Clear Water",
-      "description": "Eject water from your phone speakers and check audio output with a simple, offline utility."
+      "description": "Eject water from your phone speakers and check audio output with a simple, offline utility.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.dead.pixel.fixer.burn.in.wiper",
       "title": "Dead Pixel Fixer PI: Display",
-      "description": "Attempt to fix dead pixels and reduce screen burn-in with RGB color cycling."
+      "description": "Attempt to fix dead pixels and reduce screen burn-in with RGB color cycling.",
+      "categories": ["tools"]
+    },
+    {
+      "package": "com.infernus.touch.screen.dead.zone.tester",
+      "title": "Touch Screen Test PI: Display",
+      "description": "Test your touchscreen for dead zones and unresponsive areas with a simple grid test.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.screen.mirror.cast.to.tv",
       "title": "Screen Mirror PI: Cast to TV",
-      "description": "Cast phone to Smart TV instantly. Fast wireless screen mirroring made simple."
+      "description": "Cast phone to Smart TV instantly. Fast wireless screen mirroring made simple.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.universal.tv.remote.control",
       "title": "Smart Remote PI for LG TV Cast",
-      "description": "Fast WiFi remote for LG webOS Smart TV. Includes touchpad and app launcher."
+      "description": "Fast WiFi remote for LG webOS Smart TV. Includes touchpad and app launcher.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.androidqrcodegenerator",
       "title": "QR Code Generator PI: WiFi",
-      "description": "Offline QR code generator. Create secure WiFi, vCard and URL QR codes fast."
+      "description": "Offline QR code generator. Create secure WiFi, vCard and URL QR codes fast.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.androidqrcodescanner",
       "title": "QR Code Scanner PI: Barcode",
-      "description": "QR code scanner and barcode reader. Fast, secure, offline, and private."
+      "description": "QR code scanner and barcode reader. Fast, secure, offline, and private.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.androidrandomiserapp",
       "title": "Randomix: Dice, Wheel & RNG",
-      "description": "Randomizer, decision maker & RNG. Spin the wheel, flip a coin & roll dice fast."
+      "description": "Randomizer, decision maker & RNG. Spin the wheel, flip a coin & roll dice fast.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.privacy.exif.data.remover.editor",
       "title": "Exif Remover PI: Photo Privacy",
-      "description": "Remove Exif metadata & location from photos. Offline, secure & privacy-focused."
+      "description": "Remove Exif metadata & location from photos. Offline, secure & privacy-focused.",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.image.converter.compressor.resizer",
       "title": "Image Converter PI: JPG & PNG",
-      "description": "Image converter: batch resize, compress, convert photos. JPG, PNG, WebP, Offline"
+      "description": "Image converter: batch resize, compress, convert photos. JPG, PNG, WebP, Offline",
+      "categories": ["tools"]
     },
     {
       "package": "com.infernus.pdf.converter.maker.creator",
       "title": "PDF Converter PI: Image to PDF",
-      "description": "Convert JPG & PNG to PDF offline. Batch image to PDF converter & compressor."
+      "description": "Convert JPG & PNG to PDF offline. Batch image to PDF converter & compressor.",
+      "categories": ["tools"]
+    },
+    {
+      "package": "com.infernus.aliensvshumans",
+      "title": "Aliens vs Humans",
+      "description": "Aliens vs Humans is a 2D action endless runner where you battle aliens",
+      "categories": ["games"]
+    },
+    {
+      "package": "com.infernus.androidsantagame",
+      "title": "Santa Flight - Tap to Fly Game",
+      "description": "Tap to fly! Help Santa navigate through challenging winter obstacles.",
+      "categories": ["games"]
+    },
+    {
+      "package": "com.infernus.ambientsounds",
+      "title": "Ambient Sounds - Relax & Sleep",
+      "description": "Relax, focus, and sleep better with calming nature and ambient sounds",
+      "categories": ["wellness"]
+    },
+    {
+      "package": "com.infernus.androidanxietyapp",
+      "title": "Ease: 4-7-8 Breathing & Calm",
+      "description": "Reduce anxiety, sleep better, and find calm with guided 4-7-8 breathing.",
+      "categories": ["wellness"]
+    },
+    {
+      "package": "com.infernus.androidbeamchatapp",
+      "title": "Beam AI Chat Companion",
+      "description": "Chat with Beam AI — your private and friendly companion for conversations.",
+      "categories": ["standalone"]
+    },
+    {
+      "package": "com.infernus.androidbudgetapp",
+      "title": "Ordo: Budget & Expense Manager",
+      "description": "Simple, private expense tracker and budget planner. Offline and secure.",
+      "categories": ["standalone"]
     }
   ]
 }

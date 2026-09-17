@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "package": "com.infernus.androiddeviceinfo",
+      "title": "Device Manager PI: System Info",
+      "description": "Full device info: CPU, battery, memory, sensors, camera and network at a glance."
+    },
+    {
+      "package": "com.infernus.androidwifianalyzer",
+      "title": "WiFi Analyzer PI: WiFi Scanner",
+      "description": "WiFi scanner & network analyzer. Detect intruders and see who is on your WiFi."
+    },
+    {
+      "package": "com.infernus.androidsensorinfo",
+      "title": "Sensor Info PI: Hardware Test",
+      "description": "Comprehensive hardware diagnostic tool with metal detector, level, and barometer"
+    },
+    {
+      "package": "com.infernus.headphone.mode.off.speaker",
+      "title": "Headphone Mode Off PI: Speaker",
+      "description": "Fix stuck headphone mode. Force audio to speaker or earphones. Enable Speaker."
+    },
+    {
+      "package": "com.infernus.volume.booster.max.sound",
+      "title": "Volume Booster PI: Max Sound",
+      "description": "Powerful volume booster and sound amplifier to safely enhance your device audio."
+    },
+    {
+      "package": "com.infernus.speaker.cleaner.remove.water.eject",
+      "title": "Speaker Clean PI: Clear Water",
+      "description": "Eject water from your phone speakers and check audio output with a simple, offline utility."
+    },
+    {
+      "package": "com.infernus.dead.pixel.fixer.burn.in.wiper",
+      "title": "Dead Pixel Fixer PI: Display",
+      "description": "Attempt to fix dead pixels and reduce screen burn-in with RGB color cycling."
+    },
+    {
+      "package": "com.infernus.screen.mirror.cast.to.tv",
+      "title": "Screen Mirror PI: Cast to TV",
+      "description": "Cast phone to Smart TV instantly. Fast wireless screen mirroring made simple."
+    },
+    {
+      "package": "com.infernus.universal.tv.remote.control",
+      "title": "Smart Remote PI for LG TV Cast",
+      "description": "Fast WiFi remote for LG webOS Smart TV. Includes touchpad and app launcher."
+    },
+    {
+      "package": "com.infernus.androidqrcodegenerator",
+      "title": "QR Code Generator PI: WiFi",
+      "description": "Offline QR code generator. Create secure WiFi, vCard and URL QR codes fast."
+    },
+    {
+      "package": "com.infernus.androidqrcodescanner",
+      "title": "QR Code Scanner PI: Barcode",
+      "description": "QR code scanner and barcode reader. Fast, secure, offline, and private."
+    },
+    {
+      "package": "com.infernus.androidrandomiserapp",
+      "title": "Randomix: Dice, Wheel & RNG",
+      "description": "Randomizer, decision maker & RNG. Spin the wheel, flip a coin & roll dice fast."
+    },
+    {
+      "package": "com.infernus.privacy.exif.data.remover.editor",
+      "title": "Exif Remover PI: Photo Privacy",
+      "description": "Remove Exif metadata & location from photos. Offline, secure & privacy-focused."
+    },
+    {
+      "package": "com.infernus.image.converter.compressor.resizer",
+      "title": "Image Converter PI: JPG & PNG",
+      "description": "Image converter: batch resize, compress, convert photos. JPG, PNG, WebP, Offline"
+    },
+    {
+      "package": "com.infernus.pdf.converter.maker.creator",
+      "title": "PDF Converter PI: Image to PDF",
+      "description": "Convert JPG & PNG to PDF offline. Batch image to PDF converter & compressor."
+    }
+  ]
+}

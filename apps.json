@@ -27,7 +27,7 @@
     },
     {
       "package": "com.infernus.headphone.mode.off.speaker",
-      "title": "Headphone Mode Off PI: Speaker",
+      "title": "Headphone Fix PI: Speaker",
       "description": "Fix stuck headphone mode. Force audio to speaker or earphones. Enable Speaker.",
       "categories": ["tools"]
     },
